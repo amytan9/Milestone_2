@@ -1,0 +1,18 @@
+---
+title: "Milestone 2"
+author: "Amy Tan"
+date: "9/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Pros and Cons of Projects from Different Years:
+
+Project 1:
+
+
+Project 2:
+
